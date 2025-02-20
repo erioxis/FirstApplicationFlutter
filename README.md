@@ -1,2 +1,2 @@
 # FirstApplicationFlutter
-Файлы проекта flutter, выгруженные с https://zapp.run/
+3 лабораторная работа, онлайн компилятор https://zapp.run/
